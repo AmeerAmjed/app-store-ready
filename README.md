@@ -53,3 +53,7 @@ git -C ~/.claude/skills/app-store-ready pull
 ```
 
 Apple changes its forms from time to time. If something here doesn't match what App Store Connect shows you, trust App Store Connect, and please open an issue.
+
+## License
+
+[MIT](LICENSE)
