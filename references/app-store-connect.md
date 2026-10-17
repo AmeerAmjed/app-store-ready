@@ -36,7 +36,7 @@ Requirements change; if something here conflicts with what App Store Connect sho
 
 ## 3. App Privacy ("nutrition label")
 
-App Store Connect → App Privacy → Get Started. Mirror the real screens in reports, in order. Screens recorded from the real form (user-verified, Oct 2026):
+App Store Connect → App Privacy → Get Started. Mirror the real screens in reports, in order. Screens recorded from the real form (checked against the live form, Oct 2026):
 
 **Screen 1: Data Collection** — Apple's intro: you're responsible for third-party code in the app, so data your third-party partners collect must be included. "Collect" = transmitting data off the device in a way that allows you and/or your third-party partners to access it for longer than necessary to service the request in real time. "Third-party partners" = analytics tools, advertising networks, third-party SDKs, or other external vendors whose code is in the app.
 
@@ -113,7 +113,7 @@ Custom/proprietary encryption, or encryption as a core feature (VPN, encrypted m
 
 ## 6. Age Ratings form
 
-App Store Connect → App Information → Age Ratings is a 7-step form. Mirror it exactly in reports: same step names, groups, question wording, and NO/YES or NONE/INFREQUENT/FREQUENT answers, with a one-line reason per answer from the code. All 7 steps recorded from the real form (user-verified, Oct 2026):
+App Store Connect → App Information → Age Ratings is a 7-step form. Mirror it exactly in reports: same step names, groups, question wording, and NO/YES or NONE/INFREQUENT/FREQUENT answers, with a one-line reason per answer from the code. All 7 steps recorded from the real form (checked against the live form, Oct 2026):
 
 **Step 1: Features** — "Select whether your app has certain in-app controls, which can be used to limit the content in your app, and capabilities."
 
